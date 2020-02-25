@@ -1,0 +1,6 @@
+--ambient_test_cardinal - best cardinal bird: License: Attribution 3.0 | Recorded by PsychoBird,  http://soundbible.com/1515-Best-Cardinal-Bird.html
+--ambient_test_lava, Creative Commons 0 License., Halion , http://www.freesound.org/people/Halion/sounds/17785
+--ambient_test_horned_owl Horned Owl Sound, License: Attribution 3.0 | Recorded by Mike Koenig , http://soundbible.com/1851-Horned-Owl.html
+--ambient_test_cold_wind - from https://freesound.org/people/Karas_Homemade_SFX/sounds/324048/ by Karas_Homemade_SFX under CC-BY-SA 3.0
+
+-- ambient_test_surf - from https://freesound.org/people/aktivfilm/sounds/453227/ by aktivfilm under the CC0 license
